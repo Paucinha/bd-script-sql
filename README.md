@@ -1,4 +1,4 @@
-# Projeto Lógico de Banco de Dados
+# Desafio de Projeto: Construindo seu Primeiro Projeto Lógico de Banco de Dados
 
 ![GitHub](https://img.shields.io/github/license/Paucinha/api-ecommerce-dio?style=flat-square)
 
