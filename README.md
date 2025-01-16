@@ -1,5 +1,7 @@
 # Construindo seu Primeiro Projeto Lógico de Banco de Dados
 
+![GitHub](https://img.shields.io/github/license/Paucinha/api-ecommerce-dio?style=flat-square)
+
 Neste desafio, foi criado um projeto lógico de banco de dados utilizando o MySQL. O objetivo é replicar a modelagem de um banco de dados para um cenário de e-commerce. Prepare-se para aplicar seus conhecimentos em modelagem de banco de dados e traduzir os requisitos do cenário em uma estrutura lógica coerente usando o MySQL.
 
 Foi realize a criação do Script SQL para criação do esquema do banco de dados. Realizado a persistência de dados para realização de testes. Especificado queries mais complexas dos que apresentadas durante a explicação do desafio. Criado queries SQL com as cláusulas abaixo:
@@ -16,6 +18,16 @@ Foi realize a criação do Script SQL para criação do esquema do banco de dado
 <div style="display: inline_block"><br>
   <img align="center" alt="sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 </div>
+
+##### Arquitetura
+
+[**MySQL Workbench**](https://mysql.com/products/workbench/)
+
+##### relational_schema
+
+![relational_schema]([https://github.com/Paucinha/assets/blob/master/Mechanical.png](https://github.com/Paucinha/assets/blob/master/ecommerce_relational_schema.png))
+
+##
 
 
 
