@@ -27,6 +27,8 @@ Foi realize a criação do Script SQL para criação do esquema do banco de dado
 
 ##
 
+![formação sql](https://github.com/Paucinha/assets/blob/master/images.jpeg)
+
 Projeto desenvolvido durante o [**Heineken - Inteligência Artificial Aplicada a Dados com Copilot**](https://www.dio.me/bootcamp/coding-the-future-heineken-ia-para-analise-de-dados), fornecido pela [**DIO**](https://www.dio.me/)
 
 ##
@@ -34,6 +36,3 @@ Projeto desenvolvido durante o [**Heineken - Inteligência Artificial Aplicada a
 By Paucinha!!!
 
 https://www.linkedin.com/in/paucia-lisboa/
-
-![formação sql](https://github.com/Paucinha/assets/blob/master/images.jpeg)
-
