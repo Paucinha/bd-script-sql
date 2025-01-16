@@ -25,7 +25,7 @@ Foi realize a criação do Script SQL para criação do esquema do banco de dado
 
 ##### relational_schema
 
-![relational_schema]([https://github.com/Paucinha/assets/blob/master/Mechanical.png](https://github.com/Paucinha/assets/blob/master/ecommerce_relational_schema.png))
+![relational_schema](https://github.com/Paucinha/assets/blob/master/ecommerce_relational_schema.png)
 
 ##
 
