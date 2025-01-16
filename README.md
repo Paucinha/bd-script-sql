@@ -34,3 +34,6 @@ Projeto desenvolvido durante o [**Heineken - Inteligência Artificial Aplicada a
 By Paucinha!!!
 
 https://www.linkedin.com/in/paucia-lisboa/
+
+![formação sql](https://github.com/Paucinha/assets/blob/master/images.jpeg)
+
