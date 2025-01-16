@@ -19,22 +19,11 @@ Foi realize a criação do Script SQL para criação do esquema do banco de dado
   <img align="center" alt="sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 </div>
 
-##### Arquitetura
-
-[**MySQL Workbench**](https://mysql.com/products/workbench/)
+#### [**MySQL Workbench**](https://mysql.com/products/workbench/)
 
 ##### relational_schema
 
 ![relational_schema](https://github.com/Paucinha/assets/blob/master/ecommerce_relational_schema.png)
-
-##
-
-
-
-
-
-
-
 
 ##
 
