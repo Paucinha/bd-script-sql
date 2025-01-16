@@ -11,7 +11,7 @@ Foi realize a criação do Script SQL para criação do esquema do banco de dado
 - Condições de filtros aos grupos – HAVING Statement
 - Criado junções entre tabelas para fornecer uma perspectiva mais complexa dos dados
 
-/SQL* | *Full-Stack* | *Avançado*
+#SQL# | #Full-Stack# | #Avançado#
 
 <div style="display: inline_block"><br>
   <img align="center" alt="sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
